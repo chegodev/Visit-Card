@@ -1,0 +1,5 @@
+# Ignore .vscode Folder
+.vscode
+# Ignore .json .config.js
+.json
+.config.js
